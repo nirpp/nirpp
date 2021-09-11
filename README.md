@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nirpp
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Java, Python 
 
 - 📫 How to reach me - Email: nirzarpanvelkar38@gmail.com
