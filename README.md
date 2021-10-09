@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nirpp
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Java, Python 
+- 🌱 I’m currently learning Javascript, Python 
 
 - 📫 How to reach me - Email: nirzarpanvelkar38@gmail.com
 - Follow me on twitter: https://twitter.com/Nirzar14
