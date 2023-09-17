@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript, Python 
 
 - 📫 How to reach me - Email: nirzarpanvelkar38@gmail.com
-- Follow me on twitter: https://twitter.com/Nirzar14
+- Let's connect on LinkedIn - https://www.linkedin.com/in/nirzar-panvelkar-71197718b/
 
 <!---
 nirpp/nirpp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
